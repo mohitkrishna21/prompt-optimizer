@@ -24,3 +24,14 @@ pip install groq gradio python-dotenv
 ```
 
 Add your Groq API key to a `.env` file:
+
+Then:
+```bash
+python app.py
+```
+
+## Tech Stack
+
+- Groq API (llama-3.3-70b-versatile)
+- Gradio
+- Python-dotenv
