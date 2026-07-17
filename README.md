@@ -35,3 +35,6 @@ python app.py
 - Groq API (llama-3.3-70b-versatile)
 - Gradio
 - Python-dotenv
+
+## Demo
+![Demo](demo.png)
